@@ -18,13 +18,11 @@ The system makes the accessory available only when the app is full screen on the
 ## Requirements
 
 - Xcode 27.1 or later
-- A physical iPhone Duo with iOS 27.1 or later
-
-The simulator has no camera, so the outer display stays unavailable there.
+- A physical iPhone Duo or the iPhone Duo simulator (iOS 27.1 or later)
 
 ## Run
 
 1. Open `DuoCameraDemo.xcodeproj`.
 2. Set your development team in Signing & Capabilities.
-3. Select your iPhone Duo and run.
+3. Select a physical iPhone Duo or the iPhone Duo simulator and run.
 4. Allow camera access.
